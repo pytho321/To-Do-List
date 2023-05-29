@@ -1,0 +1,37 @@
+
+
+body {
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: rgb(211, 212, 209);
+    color: rgb(135, 33, 12);
+}
+
+
+a{
+    text-decoration: none;
+    font-size: small;    
+}
+
+form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bolder;
+    background-color: rgb(205, 205, 205);
+    color: rgb(5, 27, 44);
+}
+
+
+ul li{
+    text-align: left;
+    list-style-type:square;
+    position:relative; 
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    border: 1px;
+    border-color: black;
+}
